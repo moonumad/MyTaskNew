@@ -12,7 +12,7 @@ namespace MyTaskNew
             clsTarget.GetTargetMap();
             FlagHeader = true;
             var MyMap = AddMap(clsTarget.MyMapp);
-            FileName = @"c:/Files/FileOne.csv.txt";
+            FileName = @"c:/Files/FileOne.csv";
         }
         /// <summary>
         /// Define Map for file one 
