@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\MyTaskNew\MyTaskNew\bin\Debug\MyTaskNew.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MyTaskNew\MyTaskNew\bin\Debug\MyTaskNew.exe
+c:\users\user\documents\visual studio 2015\Projects\MyTaskNew\MyTaskNew\bin\Debug\MyTaskNew.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyTaskNew\MyTaskNew\obj\Debug\MyTaskNew.exe
+c:\users\user\documents\visual studio 2015\Projects\MyTaskNew\MyTaskNew\obj\Debug\MyTaskNew.pdb
